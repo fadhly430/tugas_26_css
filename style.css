@@ -1,0 +1,43 @@
+div.container{
+  display: flex;
+  margin-right: 30px;
+}
+
+.gambar2{
+  position: relative;
+  top: 8px;
+  left: 60px;
+
+}
+.gambar1{
+  margin-top: 65px;
+
+}
+img{
+  width: 300px;
+  height: 300px;
+}
+
+img.gambar3{
+  width: 300px;
+  height: 150px;
+  margin-top: 150px;
+}
+.gambar4{
+    position: relative;
+    top: 150px;
+    left: 70px;
+}
+
+.gambar5{
+  width: 300px;
+  height: 150px;
+  margin-top: 150px;
+  margin-left: 30px;
+}
+
+.gambar6{
+  position: relative;
+  top: 8px;
+  left: 70px;
+}
